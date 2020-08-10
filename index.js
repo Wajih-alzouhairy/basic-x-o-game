@@ -12,7 +12,7 @@ function checkWinner() {
   for (let i = 1; i <= 9; i++) {
     squares[i] = document.getElementById("A" + i).innerHTML;
   }
-  // check horizontal
+  // check horizontal..
   if (
     squares[1] == squares[2] &&
     squares[2] == squares[3] &&
