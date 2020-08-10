@@ -37,7 +37,7 @@ function checkWinner() {
     alert("player " + " " + squares[1] + " Wins the game");
     reset(7, 8, 9);
   }
-  // check vertical
+  // check vertical..
   if (
     squares[1] == squares[4] &&
     squares[4] == squares[7] &&
