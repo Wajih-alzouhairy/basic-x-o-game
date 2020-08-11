@@ -10,4 +10,4 @@
 
 ### Link
 
-[tic tac toe](https://wajih-alzouhairy.github.io/tic tac toe/)
+[tic tac toe]( https://wajih-alzouhairy.github.io/basic-x-o-game/)
